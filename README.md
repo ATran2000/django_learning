@@ -10,7 +10,7 @@ with a tech stack of ReactJS, Django, and PostgreSQL. At the end of my this lear
 In this directory, you could find the many tutorial applications I went through from documentation and youtube videos which includes monolithic applications written only with Django to other applications written with
 a React / Django tech stack.
 
-To learn more about Django, check out the following lengths
+To learn more about Django, check out the following lengths:
 
 Links to Django's Official Documentation:
  - [`https://www.djangoproject.com/`](https://www.djangoproject.com/)
