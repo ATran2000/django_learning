@@ -1,6 +1,6 @@
 # Django Learning!
 
-About:
+About: <br>
 The Python-based web framework, Django, is the new technical skill I am currently learning. My motivation behind learning Django is to expand and diverse my skill set for full-stack development. 
 Until now, I only exclusively worked with Express, a less structured JavaScript-based web framework, so I decided to explore something new by diving into Django, a more structured framework written in Python.
 Although Django is a monolithic framework meaning that it could be used for both the frontend (with Django Templates) and backend, I plan to only use Django as a backend framework and write full stack applications 
