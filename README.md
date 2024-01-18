@@ -4,10 +4,12 @@
 The Python-based web framework, Django, is the new technical skill I am currently learning. My motivation behind learning Django is to expand and diverse my skill set for full-stack development. 
 Until now, I only exclusively worked with Express, a less structured JavaScript-based web framework, so I decided to explore something new by diving into Django, a more structured framework written in Python.
 Although Django is a monolithic framework meaning that it could be used for both the frontend (with Django Templates) and backend, I plan to only use Django as a backend framework and write full stack applications 
-with a tech stack of ReactJS, Django, and PostgreSQL. At the end of my this learning journey, I am hoping I would have enough knowledge to write a decent full-stack application for the gym because I love working out.<br>
+with a tech stack of ReactJS, Django, and PostgreSQL. At the end of my this learning journey, I am hoping I would have enough knowledge to write a decent full-stack application for the gym because I love working out.
+<br>
 
 In this directory, you could find the many tutorial applications I went through from documentation and youtube videos which includes monolithic applications written only with Django to other applications written with
-a React / Django tech stack.<br>
+a React / Django tech stack.
+<br>
 
 To learn more about Django, check out the following lengths:
 
