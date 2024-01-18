@@ -1,6 +1,12 @@
+About
+============
+
+The code in this directory was written by following the Django for Everybody - Full Python University Course youtube video taught by Dr. Charles Severance (professor from University of Michigan). <br>
+The link to the youtube video is the following:
+ - [`https://www.youtube.com/watch?v=o0XbHvKxw7Y`](https://www.youtube.com/watch?v=o0XbHvKxw7Y)
 
 DJ4E Samples
-============
+-------------------------------------------
 
 This is a set of Django projects that provide free sample code to
 support the www.dj4e.com web site.
