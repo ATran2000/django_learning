@@ -13,7 +13,7 @@ To learn more about Django, check out the following lengths:
 
 Links to Django's Official Documentation:
  - [`https://www.djangoproject.com/`](https://www.djangoproject.com/)
- - [`https://docs.djangoproject.com/en/4.2/topics/`](https://docs.djangoproject.com/en/4.2/topics/)
+ - [`https://docs.djangoproject.com/en/5.0/contents/`](https://docs.djangoproject.com/en/5.0/contents/)
 
 Link to an article about how to integrate ReactJS with the Django Framework:
  - [`https://medium.com/@devsumitg/how-to-connect-reactjs-django-framework-c5ba268cb8be`](https://medium.com/@devsumitg/how-to-connect-reactjs-django-framework-c5ba268cb8be)
