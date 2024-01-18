@@ -20,3 +20,6 @@ Link to an article about how to integrate ReactJS with the Django Framework:
 
 Link that showcases an example .gitignore file for a Django Application:
  - [`https://www.toptal.com/developers/gitignore/api/django`](https://www.toptal.com/developers/gitignore/api/django)
+
+Link to a Stack Overflow thread about hiding the Django SECRET_KEY in settings.py:
+ - [`https://stackoverflow.com/questions/64208678/hiding-secret-key-in-django-project-on-github-after-uploading-project`](https://stackoverflow.com/questions/64208678/hiding-secret-key-in-django-project-on-github-after-uploading-project)
