@@ -24,7 +24,7 @@ const HomePage = () => {
     };
 
     getNotes();
-  }, [authTokens]);
+  }, [logoutUser, authTokens]);
 
   return (
     <div>

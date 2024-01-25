@@ -9,3 +9,12 @@ The link to the tutorial is the following:
 
 The next link provides a fix towards an issue on the protected routes portion of the video because the video uses router-dom v5 intead of v6:
  - [`https://www.youtube.com/watch?v=2k8NleFjG7I`](https://www.youtube.com/watch?v=2k8NleFjG7I)
+
+I've been doing a bit of research and have been getting a lot of mixed messages on whether storing JWT tokens in localStorage is okay or not. I think the concensus is that storing JWT
+tokens in localStorage and HttpOnly cookies are both hackable, but HttpOnly cookies may be a bit more secure as client-side scripts are unable to access the tokens if it is stored in HttpOnly cookies.
+My conclusion is that I should do authentication where my tokens are stored in HttpOnly cookies.
+The following are some links on my research about this topic:
+ - [`https://stackoverflow.com/questions/44133536/is-it-safe-to-store-a-jwt-in-localstorage-with-reactjs`](https://stackoverflow.com/questions/44133536/is-it-safe-to-store-a-jwt-in-localstorage-with-reactjs)
+ - [`https://www.youtube.com/watch?v=M6N7gEZ-IUQ`](https://www.youtube.com/watch?v=M6N7gEZ-IUQ)
+ - [`https://academind.com/tutorials/localstorage-vs-cookies-xss`](https://academind.com/tutorials/localstorage-vs-cookies-xss)
+ - [`https://www.reddit.com/r/webdev/comments/x15xvg/jwt_storage_best_practices/`](https://www.reddit.com/r/webdev/comments/x15xvg/jwt_storage_best_practices/)
