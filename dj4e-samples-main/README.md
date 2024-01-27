@@ -1,7 +1,7 @@
 About
 ============
 
-The code in this directory was written by following the Django for Everybody - Full Python University Course youtube video taught by Dr. Charles Severance (professor from University of Michigan). <br>
+The code in this directory was written by following the Django for Everybody - Full Python University Course youtube video taught by Dr. Charles Severance (professor from University of Michigan). <br><br>
 The link to the youtube video is the following:
  - [`https://www.youtube.com/watch?v=o0XbHvKxw7Y`](https://www.youtube.com/watch?v=o0XbHvKxw7Y)
 
