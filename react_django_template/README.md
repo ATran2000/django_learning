@@ -1,7 +1,7 @@
 # About
 
 I created my own ReactJS/Django starting template with sessions authentication. The code is based off of two youtube tutorials I followed about how to create a ReactJS/Django authentication app 
-using JWT authentication and sessions authentication. The following are steps to run the template. <br><br>
+using JWT authentication and sessions authentication. The following are steps to run the template. <br>
 
 Backend (Django):
  - pip install djangorestframework
